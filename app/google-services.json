@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "619432582105",
+    "firebase_url": "https://carpark-b78a2.firebaseio.com",
+    "project_id": "carpark-b78a2",
+    "storage_bucket": "carpark-b78a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:619432582105:android:bde4b5e1f384152061d7c8",
+        "android_client_info": {
+          "package_name": "com.emk.carpark"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "619432582105-un3uiv2t9uquuc1jp4uuo39lsvc5a4eu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSLGkdDhJjmZFn_2oMrarMyjuigQfmuMA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "619432582105-un3uiv2t9uquuc1jp4uuo39lsvc5a4eu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
